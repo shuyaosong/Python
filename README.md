@@ -1,4 +1,5 @@
 # The Algorithms - Python <!-- [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python) -->
+* 几位印度小哥在 GitHub 上建了一个各种 Python 算法的新手入门大全，从原理到代码，全都给你交代清楚了。这个项目主要包括两部分内容：一是各种算法的基本原理讲解，二是各种算法的代码实现。除了算法基础原理部分的Python代码，还有包括神经网络、机器学习、数学等等代码实现。
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/TheAlgorithms/100) &nbsp;
 [![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/TheAlgorithms) &nbsp;
